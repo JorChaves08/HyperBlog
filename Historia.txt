@@ -2,8 +2,10 @@ Historia de Jordan Chaves
 
 Jordan Chaves tiene 21 años y nació en Costa Rica
 Toca trombón
-Hoy Hablaremos de su historia
+Hoy Hablaremos de su vida y proyectos a futuro
 
 Es alto en fotos y en persona 
 
-Hoy es un estudiante de pretzi
+Hoy es un estudiante de pretzi.
+
+trabajando además con git.
