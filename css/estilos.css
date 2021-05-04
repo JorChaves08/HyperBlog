@@ -19,3 +19,20 @@ body {
 #post{
   font-size: 70px;
 }
+
+#cabecera{
+  background: black;
+  box-shadow: 0px 2px 20px crimson(0,0,0,0,5);
+  color: blueviolet;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;   
+  font-size: 20px;
+}
+
+#cabecera #tagline{
+  padding: 0 0 0;
+  font-weight: normal;
+  font-size: 0cm;
+}
+
