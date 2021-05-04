@@ -1,12 +1,10 @@
 body {
   text-align: center;
      font-family: "arial";
-     color: brown;
-     font-weight: 100;
-     background-color: gray;
-     border: indianred;
+     color: black;
      margin: 0;
      padding: 0;
+     font-size: 16px;
 
 }
 #container{
@@ -21,18 +19,17 @@ body {
 }
 
 #cabecera{
-  background: black;
+  background: #33A;
   box-shadow: 0px 2px 20px crimson(0,0,0,0,5);
-  color: blueviolet;
+  color: white;
   font-weight: bold;
   margin: 0;
   padding: 0;   
-  font-size: 20px;
 }
 
 #cabecera #tagline{
-  padding: 0 0 0;
+  padding: 0 0 0 1cm;
   font-weight: normal;
-  font-size: 0cm;
+  font-size: 0cm 8cm;
 }
 
